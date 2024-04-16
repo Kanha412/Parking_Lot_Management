@@ -1,5 +1,5 @@
 # Parking_Lot_Management
-<h3><b>A Simple Parking Lot Management Website Using HTML, CSS, JavaScript, HTML Canvas, and Mathematics.</b></h3>
+<h3><b>A Simple Parking Lot Management Website Using HTML, CSS, and JavaScript.</b></h3>
 <br>
 
 <b>This Project Contains:-</b>
